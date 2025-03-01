@@ -1,6 +1,5 @@
 # Real-Estate-Website-React-JS
-I am creating a mobile application that connects farmers directly with consumers and retailers. The app should include features for listing produce, negotiating prices, and managing transactions, thereby reducing dependence on intermediaries. 
-
+In today's market, finding the perfect property should be easy, engaging, and enjoyable. That’s why I’ve created a modern, responsive, and highly interactive Real Estate Website designed to simplify the search for home seekers while showcasing properties in the best light possible.
 
 # React + Vite
 
